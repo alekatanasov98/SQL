@@ -20,7 +20,7 @@ For my deep dive into the data analyst job market, I used the following tools:
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here's how I approached each question: 
 
 ### 1. Top Paying Data Analyst Jobs
-To identify the highest-paying toles I filtered data analyst positions by average annual salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+To identify the highest-paying roles I filtered data analyst positions by average annual salary and location, focusing on remote jobs. This query highlights the high-paying opportunities in the field.
 ```sql
 SELECT
     name AS company,
